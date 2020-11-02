@@ -1,0 +1,85 @@
+body{
+	background-image: url('background.jpg')
+}
+
+.logo{
+	height: 200px;
+	width: 200px;	
+	border: double 5px;
+	border-color: #F845FF;
+	margin-top: 5px;
+}
+
+.paragraph1{
+	margin-top: 50px;
+}
+
+p{
+	font-family: raleway;
+	color: #4BD9FF;
+	border: double;
+	border-color: #F845FF;
+	padding: 10px;
+	
+}
+
+#heading{
+	text-align: center;
+}
+
+.heading{
+	font-family: Titillium Web;
+	padding: 10px;
+	color: #1F49ED;
+	border: double 5px;
+	border-color: #F845FF;
+}
+
+.break{
+	height: 15px;
+}
+
+.link{
+	margin-left: auto;
+	margin-right: auto;
+	color: #F845FF;
+	border: double 5px;
+	border-color: #1F49ED;
+	padding: 10px;
+}
+
+.link:hover{
+	color: #4BD9FF;
+}
+
+.nav{
+	margin-top: 5px;
+	border: inset 5px;
+	border-color: #4BD9FF;
+}
+
+.nav-link{
+	color: #F845FF;
+}
+
+.card{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card-body{
+	background-color: black;
+	border: double;
+	border-color: #1F49ED;
+}
+
+.card-img-top{
+	border: double;
+	border-color: #1F49ED;
+}
+
+.btn-primary{
+	background-color: #F845FF;
+	color: black;
+	padding: 5px;
+}
